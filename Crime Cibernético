@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="schortcut icon"
+        href="https://digital.futurecom.com.br/sites/futurecom.com/files/styles/article_featured_standard/public/Crime%20ciberntico%20-%20o%20que%20fazer%20no%20caso%20de%20um%20ataque%20%20indstria.jpg?itok=thjSm6Ji">
+    <title>Crime Cibernético</title>
+</head>
+
+<body>
+    <style>
+        body {
+            font-family: Arial;
+            padding: 30px 100px;
+            background-image: url(https://img.freepik.com/fotos-premium/resumo-de-papel-textura-azul-para-plano-de-fundo_55716-20.jpg?w=2000);
+            color: black;
+        }
+    </style>
+    <h1>Crime Cibernético</h1>
+    <br>
+    <img
+        src="https://scontent.faju8-1.fna.fbcdn.net/v/t1.6435-9/41853893_1921320491285441_4401880241862082560_n.jpg?stp=cp0_dst-jpg_e15_q65_s320x320&_nc_cat=100&ccb=1-7&_nc_sid=1480c5&_nc_ohc=i9ancaq7XD4AX8Tc15Y&_nc_ht=scontent.faju8-1.fna&oh=00_AT_WGodyp4wJ9ZXdEyVRtKwNA25STAJjvx2FlY5z9My29g&oe=63736736">
+    <h3>Megavazamento de Dados </h3>
+    <p>
+        Pacotes de dados com informações pessoais de mais de 223 milhões de brasileiros apareceram em fóruns usados por
+        criminosos digitais. São dois vazamentos separados. Um deles, que contém os dados dos veículos e informações
+        limitadas de cada número do CPF, está em livre circulação na internet e disponível para download. O outro pacote
+        inclui dados de escolaridade, benefícios do INSS e programas sociais (como o Bolsa Família), renda e score de
+        crédito (que estima se uma pessoa é um bom pagador). O número de cadastros no pacote supera a população
+        brasileira (estimada em 212 milhões). Isso é possível porque os dados incluem CPFs de pessoas falecidas.
+    </p>
+    <h3>Pena aplicavel</h3>
+    <p>
+        § 4º-B. A pena é de reclusão, de 4 (quatro) a 8 (oito) anos, e multa, se o furto mediante fraude é cometido por
+        meio de dispositivo eletrônico ou informático, conectado ou não à rede de computadores, com ou sem a violação de
+        mecanismo de segurança ou a utilização de programa malicioso, ou por qualquer outro meio fraudulento análogo.
+        § 4º-C. A pena prevista no § 4º-B deste artigo, considerada a relevância do resultado gravoso:
+        I - aumenta-se de 1/3 (um terço) a 2/3 (dois terços), se o crime é praticado mediante a utilização de servidor
+        mantido fora do território nacional;
+        II - aumenta-se de 1/3 (um terço) ao dobro, se o crime é praticado contra idoso ou vulnerável.
+    </p>
+    <h3>Configuração do delito</h3>
+    <p>
+        No crime ocorreu o furto de dados confidenciais do governo para a venda e divulgação, então sendo assim
+        classificado como crime informático mediato ou indireto.
+    </p>
+</body>
+
+</html>
